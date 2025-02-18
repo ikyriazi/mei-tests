@@ -39,7 +39,7 @@
                         <layer xml:id="l11xqwxw" n="1">
                            <note xml:id="niij636"  dur="2" oct="4" pname="a" stem.dir="up" />
                            <beam xml:id="b1izw3po">
-                              <note xml:id="n1dbu2lb"  dur="8" oct="4" pname="a" stem.dir="up" />
+                              <note xml:id="n1dbu2lb"  dur="8" oct="4" pname="g" stem.dir="up" />
                               <note xml:id="n10936uk"  dur="8" oct="4" pname="g" stem.dir="up" />
                               <note xml:id="n1hnhfkq"  dur="8" oct="4" pname="a" stem.dir="up" />
                               <note xml:id="n14kumf4"  dur="8" oct="4" pname="b" stem.dir="up" />
